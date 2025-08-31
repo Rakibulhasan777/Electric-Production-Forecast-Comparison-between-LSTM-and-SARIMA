@@ -3,7 +3,9 @@
 This project focuses on forecasting electric production using historical time-series data. The model leverages advanced machine learning and statistical techniques to capture patterns, seasonality, and trends in electricity generation. Accurate forecasting of energy production is crucial for:
 
 Ensuring reliable power grid management
+
 Supporting sustainable energy policies
+
 Optimizing resource allocation and planning
 
 # Key Features
